@@ -1,0 +1,2338 @@
+[
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What does a milliner make and sell?",
+        "correct_answer": "Hats",
+        "incorrect_answers": [
+            "Shoes",
+            "Belts",
+            "Shirts"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which river flows through the Scottish city of Glasgow?",
+        "correct_answer": "Clyde",
+        "incorrect_answers": [
+            "Tay",
+            "Dee",
+            "Tweed"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+        "correct_answer": "Demolition",
+        "incorrect_answers": [
+            "The Dream Team",
+            "The Bushwhackers",
+            "The British Bulldogs"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+        "correct_answer": "Mike",
+        "incorrect_answers": [
+            "Matthew",
+            "Mark",
+            "Max"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does a funambulist walk on?",
+        "correct_answer": "A Tight Rope",
+        "incorrect_answers": [
+            "Broken Glass",
+            "Balls",
+            "The Moon"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Rolex is a company that specializes in what type of product?",
+        "correct_answer": "Watches",
+        "incorrect_answers": [
+            "Cars",
+            "Computers",
+            "Sports equipment"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "&quot;Typewriter&quot; is the longest word that can be typed using only the first row on a QWERTY keyboard.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which language is NOT Indo-European?",
+        "correct_answer": "Hungarian",
+        "incorrect_answers": [
+            "Russian",
+            "Greek",
+            "Latvian"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What geometric shape is generally used for stop signs?",
+        "correct_answer": "Octagon",
+        "incorrect_answers": [
+            "Hexagon",
+            "Circle",
+            "Triangle"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the shape of the toy invented by Hungarian professor Ern\u0151 Rubik?",
+        "correct_answer": "Cube",
+        "incorrect_answers": [
+            "Sphere",
+            "Cylinder",
+            "Pyramid"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "The sum of all the numbers on a roulette wheel is 666.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+       "difficulty": "hard",
+        "question": "What year was Queen Elizabeth II born?",
+        "correct_answer": "1926",
+        "incorrect_answers": [
+            "1923",
+            "1929",
+            "1930"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+        "correct_answer": "The Goth Family",
+        "incorrect_answers": [
+            "The Family",
+            "The Simoleon Family",
+            "The Proud Family"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+        "correct_answer": "Bullfighting",
+        "incorrect_answers": [
+            "Fiestas",
+            "Flamenco",
+            "Mariachi"
+        ]
+    },
+    {
+       "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "The average woman is 5 inches \/ 13 centimeters shorter than the average man.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "On average, at least 1 person is killed by a drunk driver in the United States every hour.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is a dead mall?",
+        "correct_answer": "A mall with high vacancy rates or low consumer foot traffic",
+        "incorrect_answers": [
+            "A mall with no stores",
+            "A mall that has been condemed",
+            "A mall after business hours"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the last letter of the Greek alphabet?",
+        "correct_answer": "Omega",
+        "incorrect_answers": [
+            "Mu",
+            "Epsilon",
+            "Kappa"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Adolf Hitler was born in Australia. ",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "When you cry in space, your tears stick to your face.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "The Lego Group was founded in 1932.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Romanian belongs to the Romance language family, shared with French, Spanish, Portuguese and Italian. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Amsterdam Centraal station is twinned with what station?",
+        "correct_answer": "London Liverpool Street",
+        "incorrect_answers": [
+            "Frankfurt (Main) Hauptbahnhof",
+            "Paris Gare du Nord",
+            "Brussels Midi"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following card games revolves around numbers and basic math?",
+        "correct_answer": "Uno",
+        "incorrect_answers": [
+            "Go Fish",
+            "Twister",
+            "Munchkin"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is a Burgee?",
+        "correct_answer": "A flag",
+        "incorrect_answers": [
+            "A rope",
+            "A window",
+            "A type of food"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which product did Nokia, the telecommunications company, originally sell?",
+        "correct_answer": "Paper",
+        "incorrect_answers": [
+            "Phones",
+            "Computers",
+            "Processors"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+            "2005",
+            "2003",
+            "2006"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Spoon theory is a theory, utilizing &quot;Spoons&quot; as a metaphor for energy they can use in a day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+        "correct_answer": "Traffic Collision Avoidance System",
+        "incorrect_answers": [
+            "Traffic Communication Alert System",
+            "Traffic Configuration Alignment System",
+            "Traffic Call-sign Abbreviation System"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What company developed the vocaloid Hatsune Miku?",
+        "correct_answer": "Crypton Future Media",
+        "incorrect_answers": [
+            "Sega",
+            "Sony",
+            "Yamaha Corporation"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "The National Animal of Scotland is the Unicorn.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+        "correct_answer": "Kilt",
+        "incorrect_answers": [
+            "Skirt",
+            "Dress",
+            "Rhobes"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these words means &quot;idle spectator&quot;?",
+        "correct_answer": "Gongoozler",
+        "incorrect_answers": [
+            "Gossypiboma",
+            "Jentacular",
+            "Meupareunia"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which candy is NOT made by Mars?",
+        "correct_answer": "Almond Joy",
+        "incorrect_answers": [
+            "M&amp;M&#039;s",
+            "Twix",
+            "Snickers"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which country has the most Trappist breweries?",
+        "correct_answer": "Belgium",
+        "incorrect_answers": [
+            "Netherlands",
+            "France",
+            "USA"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "Popcorn was invented in 1871 by Frederick W. Rueckheim in the USA where he sold the snack on the streets of Chicago.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+        "correct_answer": "Horse",
+        "incorrect_answers": [
+            "Weave",
+            "Guitar",
+            "Boat"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+        "correct_answer": "Slacking",
+        "incorrect_answers": [
+            "Smoking",
+            "Stealing",
+            "Cheating"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "A statue of Charles Darwin sits in what London museum?",
+        "correct_answer": "Natural History Museum",
+        "incorrect_answers": [
+            "Tate",
+            "British Museum",
+            "Science Museum"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The Flag of the European Union has how many stars on it?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "10",
+            "14",
+            "16"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How many notes are there on a standard grand piano?",
+        "correct_answer": "88",
+        "incorrect_answers": [
+            "98",
+           "108",
+            "78"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "A pasodoble is a type of Italian pasta sauce.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "When one is &quot;envious&quot;, they are said to be what color?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Red",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The Canadian $1 coin is colloquially known as a what?",
+        "correct_answer": "Loonie",
+        "incorrect_answers": [
+            "Boolie",
+            "Foolie",
+            "Moodie"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
+        "correct_answer": "Pale Lager",
+        "incorrect_answers": [
+            "India Pale Ale",
+            "Pilfsner",
+            "Baltic Porter"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the youngest person to recieve a Nobel Prize?",
+        "correct_answer": "Malala Yousafzai",
+        "incorrect_answers": [
+            "Lawrence Bragg",
+            "Werner Heisenberg",
+            "Yasser Arafat"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+        "correct_answer": "Ad hominem",
+        "incorrect_answers": [
+            "Post hoc ergo propter hoc",
+            "Tu quoque",
+            "Argumentum ad populum"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who wrote &quot;Harry Potter&quot;?",
+        "correct_answer": "J.K. Rowling",
+        "incorrect_answers": [
+            "J.R.R. Tolkien",
+            "Terry Pratchett",
+            "Daniel Radcliffe"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?",
+        "correct_answer": "George R. R. Martin",
+        "incorrect_answers": [
+            "George Lucas",
+            "George Orwell",
+            "George Eliot"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+        "correct_answer": "1984",
+        "incorrect_answers": [
+            "The Old Man and the Sea",
+            "Catcher and the Rye",
+            "To Kill a Mockingbird"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which famous book is sub-titled &#039;The Modern Prometheus&#039;?",
+        "correct_answer": "Frankenstein",
+        "incorrect_answers": [
+            "Dracula",
+            "The Strange Case of Dr. Jekyll and Mr. Hyde ",
+            "The Legend of Sleepy Hollow"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Who wrote the novel &quot;Moby-Dick&quot;?",
+        "correct_answer": "Herman Melville",
+        "incorrect_answers": [
+            "William Golding",
+            "William Shakespeare",
+            "J. R. R. Tolkien"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many books are in the Chronicles of Narnia series?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "6",
+            "8",
+            "5"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the name of Captain Nemo&#039;s submarine in &quot;20,000 Leagues Under the Sea&quot;?",
+        "correct_answer": "The Nautilus",
+        "incorrect_answers": [
+            "The Neptune",
+            "The Poseidon  ",
+            "The Atlantis"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
+        "correct_answer": "549 Days",
+        "incorrect_answers": [
+            "765 Days",
+            "401 Days",
+            "324 Days"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following is the world&#039;s best-selling book?",
+        "correct_answer": "The Lord of the Rings",
+        "incorrect_answers": [
+            "The Little Prince",
+            "Harry Potter and the Philosopher&#039;s Stone",
+            "The Da Vinci Code"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
+        "correct_answer": "Oswald",
+        "incorrect_answers": [
+            "James",
+            "Harold",
+            "Christopher"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is Hermione Granger&#039;s middle name?",
+        "correct_answer": "Jean",
+        "incorrect_answers": [
+            "Jane",
+            "Emma",
+            "Jo"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is Ron Weasley&#039;s middle name?",
+        "correct_answer": "Bilius",
+        "incorrect_answers": [
+            "Arthur",
+            "John",
+            "Dominic"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What position does Harry Potter play in Quidditch?",
+        "correct_answer": "Seeker",
+        "incorrect_answers": [
+            "Beater",
+            "Chaser",
+            "Keeper"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "&quot;Green Eggs And Ham&quot; is a book by which author?",
+        "correct_answer": "Dr. Seuss",
+        "incorrect_answers": [
+            "Beatrix Potter",
+            "Roald Dahl",
+            "A.A. Milne"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
+        "correct_answer": "Ian Fleming",
+        "incorrect_answers": [
+            "Joseph Conrad",
+            "John Buchan",
+            "Graham Greene"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was the name of the Mysterious Island, in Jules Verne&#039;s &quot;The Mysterious Island&quot;?",
+        "correct_answer": "Lincoln Island",
+        "incorrect_answers": [
+            "Vulcania Island",
+            "Prometheus Island",
+            "Neptune Island"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "By what name was the author Eric Blair better known?",
+        "correct_answer": "George Orwell",
+        "incorrect_answers": [
+            "Aldous Huxley",
+            "Ernest Hemingway",
+            "Ray Bradbury"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the &quot;Harry Potter&quot; series, what is Headmaster Dumbledore&#039;s full name?",
+        "correct_answer": "Albus Percival Wulfric Brian Dumbledore",
+        "incorrect_answers": [
+            "Albus Valum Jetta Mobius Dumbledore",
+            "Albus James Lunae Otto Dumbledore",
+            "Albus Valencium Horatio Kul Dumbledore"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "The &quot;Berenstein Bears&quot; is the correct spelling of the educational children&#039;s book series&#039; name.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+        "correct_answer": "Richard Bachman",
+        "incorrect_answers": [
+            "J. D. Robb",
+            "Mark Twain",
+            "Lewis Carroll"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
+        "correct_answer": "James Potter",
+        "incorrect_answers": [
+            "Joey Potter",
+            "Frank Potter",
+            "Hairy Potter Sr."
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+        "correct_answer": "Charlotte Bront&euml;",
+        "incorrect_answers": [
+            "Emily Bront&euml;",
+            "Jane Austen",
+            "Louisa May Alcott"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+        "correct_answer": "John Green",
+        "incorrect_answers": [
+            "Stephenie Meyer",
+            "Suzanne Collins",
+            "Stephen Chbosky"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+        "correct_answer": "The Grapes of Wrath",
+        "incorrect_answers": [
+            "Hamlet",
+            "The Great Gatsby",
+            "Peter Pan"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "J.K. Rowling completed &quot;Harry Potter and the Deathly Hallows&quot; in which hotel in Edinburgh, Scotland?",
+        "correct_answer": "The Balmoral",
+        "incorrect_answers": [
+            "The Dunstane Hotel",
+            "Hotel Novotel",
+            "Sheraton Grand Hotel &amp; Spa"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "&quot;Elementary, my dear Watson&quot; is a phrase that is never truly said within the Conan Doyle books of Sherlock Holmes.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?",
+        "correct_answer": "My Struggle",
+        "incorrect_answers": [
+            "My Hatred",
+            "My Sadness",
+            "My Desire"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+        "correct_answer": "John Steinbeck",
+        "incorrect_answers": [
+            "F. Scott Fitzgerald",
+            "Ernest Hemingway",
+            "William Faulkner"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The book &quot;The Little Prince&quot; was written by...",
+        "correct_answer": "Antoine de Saint-Exup&eacute;ry",
+        "incorrect_answers": [
+            "Miguel de Cervantes Saavedra",
+            "Jane Austen",
+            "F. Scott Fitzgerald"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these book series is by James Patterson?",
+        "correct_answer": "Maximum Ride",
+        "incorrect_answers": [
+            "Harry Potter",
+            "The Legend of Xanth",
+            "The Bartemaeus Trilogy"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Michael Crichton&#039;s novel &quot;Jurassic Park&quot;, John Hammond meets his demise at the claws of which dinosaur?",
+        "correct_answer": "Procompsognathus",
+        "incorrect_answers": [
+            "Dilophosaurus",
+            "Tyrannosaurus Rex",
+            "Velociraptor"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the &quot;Harry Potter&quot; novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?",
+        "correct_answer": "Answer a riddle",
+        "incorrect_answers": [
+            "Rhythmically tap barrels with a wand",
+            "Speak a password",
+            "Knock in sequence"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following is NOT a work done by Shakespeare?",
+        "correct_answer": "Trial of Temperance",
+        "incorrect_answers": [
+            "Measure For Measure",
+            "Titus Andronicus",
+            "Cymbeline"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was the last message of the Dolphins in &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot;?",
+        "correct_answer": "&quot;So long, and thanks for all the fish.&quot;",
+        "incorrect_answers": [
+            "&quot;The answer is 42.&quot;",
+            "&quot;Land of the brave.&quot;",
+            "&quot;Goodbye cruel world!&quot;"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1990)?",
+        "correct_answer": "1989 Toyota Land Cruiser",
+        "incorrect_answers": [
+            "1989 Jeep Wrangler YJ Sahar",
+            "1989 Ford Explorer XLT",
+            "Mercedes M-Class"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+        "correct_answer": " Osteogenesis Imperfecta",
+        "incorrect_answers": [
+            "Spinocerebellar ataxia",
+            "Adrenoleukodystrophy",
+            "Cystic Fibrosis"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In Margaret Atwood&#039;s &quot;The Handmaid&#039;s Tale&quot;, what is Offred&#039;s real name is implied to be?",
+        "correct_answer": "June",
+        "incorrect_answers": [
+            "August",
+            "April",
+            "May"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+        "correct_answer": "Terisiare",
+        "incorrect_answers": [
+            "Aerona",
+            "Shiv",
+            "Jamuraa"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
+        "correct_answer": "Sarpadia",
+        "incorrect_answers": [
+            "Otaria",
+            "Terisiare",
+            "Shiv"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+        "correct_answer": "Dinah",
+        "incorrect_answers": [
+            "Oscar",
+            "Heath",
+            "Smokey"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
+        "correct_answer": "A Clash of Kings",
+        "incorrect_answers": [
+            "A Dance with Dragons",
+            "A Storm of Swords",
+            "A Feast for Crows"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In which classic novel is there a character named Homer Simpson?",
+        "correct_answer": "The Day of the Locust",
+        "incorrect_answers": [
+            "Catch-22",
+            "Of Mice and Men",
+            "A Separate Peace"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "&quot;Green Eggs and Ham&quot; consists of only 50 different words.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+        "correct_answer": "SCP-173",
+        "incorrect_answers": [
+            "SCP-001",
+            "SCP-999",
+            "SCP-1459"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
+        "correct_answer": "The Prince and the Pauper",
+        "incorrect_answers": [
+            "Hamlet",
+            "Wealthy Boy and the Schmuck",
+            "A Modern Twain Story"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Terry Pratchett&#039;s Discworld novel &#039;Wyrd Sisters&#039;, which of these are not one of the three main witches?",
+        "correct_answer": "Winny Hathersham",
+        "incorrect_answers": [
+            "Granny Weatherwax",
+            "Nanny Ogg",
+            "Magrat Garlick"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "Originally, the character Charlie from Charlie and the Chocolate Factory was going to be black.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who wrote &quot;A Tale of Two Cities&quot;?",
+        "correct_answer": "Charles Dickens",
+        "incorrect_answers": [
+            "Charles Darwin",
+            "Mark Twain",
+            "Roald Dahl"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;",
+        "correct_answer": "Falcon",
+        "incorrect_answers": [
+            "Eagle",
+            "Kyte",
+            "Swallow"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Shub-Niggurath is a creature that was created by \tJ. R. R. Tolkien in his novel &quot;The Lord of The Rings&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following was not one of &quot;The Magnificent Seven&quot;?",
+        "correct_answer": "Clint Eastwood",
+        "incorrect_answers": [
+            "Steve McQueen",
+            "Charles Bronson",
+            "Robert Vaughn"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which movie released in 2016 features Superman and Batman fighting?",
+        "correct_answer": "Batman v Superman: Dawn of Justice",
+        "incorrect_answers": [
+            "Batman v Superman: Superapocalypse",
+            "Batman v Superman: Black of Knight",
+            "Batman v Superman: Knightfall"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?",
+        "correct_answer": "Rope",
+        "incorrect_answers": [
+            "Psycho",
+            "Vertigo",
+            "Rebecca"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the last Marx Brothers film to feature Zeppo?",
+        "correct_answer": "Duck Soup",
+        "incorrect_answers": [
+            "A Night at the Opera",
+            "A Day at the Races",
+            "Monkey Business"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+        "correct_answer": "Steven Spielberg",
+        "incorrect_answers": [
+            "Stanley Kubrick",
+            "James Cameron",
+            "Tim Burton"
+        ]
+   },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the highest grossing film of all time (without adjusting for inflation)?",
+        "correct_answer": "Avengers: Endgame",
+        "incorrect_answers": [
+            "Jurassic World",
+            "Avatar",
+            "Titanic"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who wrote and directed the 1986 film &#039;Platoon&#039;?",
+        "correct_answer": "Oliver Stone",
+        "incorrect_answers": [
+            "Francis Ford Coppola",
+            "Stanley Kubrick",
+            "Michael Cimino"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?",
+        "correct_answer": "Jim Stark",
+        "incorrect_answers": [
+            "Ned Stark",
+            "Jim Kane",
+            "Frank Stark"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?",
+        "correct_answer": "Gale",
+        "incorrect_answers": [
+            "Perkins",
+            "Day",
+            "Parker"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "This movie contains the quote, &quot;I love the smell of napalm in the morning!&quot;",
+        "correct_answer": "Apocalypse Now",
+        "incorrect_answers": [
+            "Platoon",
+            "The Deer Hunter",
+            "Full Metal Jacket"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
+        "correct_answer": "BB-8",
+        "incorrect_answers": [
+            "BB-3",
+            "AA-A",
+            "R2-D2"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In what year was the first Transformers movie released?",
+        "correct_answer": "1986",
+        "incorrect_answers": [
+            "2007",
+            "1984",
+            "2009"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of these actors\/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
+        "correct_answer": "Scarlett Johansson",
+        "incorrect_answers": [
+            "Jared Leto",
+            "Will Smith",
+            "Margot Robbie"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What did the first moving picture depict?",
+        "correct_answer": "A galloping horse",
+        "incorrect_answers": [
+            "A woman in a dress",
+            "A man walking",
+            "A crackling fire"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?",
+        "correct_answer": "Jack and Jill",
+        "incorrect_answers": [
+            "The Girl with the Dragon Tattoo",
+            "Thor",
+            "The King&#039;s Speech"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?",
+        "correct_answer": "Tron",
+        "incorrect_answers": [
+            "Big Hero 6",
+            "Fantasia",
+            "Monsters, Inc."
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+        "correct_answer": "Jackie Earle Haley",
+        "incorrect_answers": [
+            "Tyler Mane",
+            "Derek Mears",
+            "Gunnar Hansen"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Ewan McGregor did not know the name of the second prequel film of Star Wars during and after filming.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?",
+        "correct_answer": "The Shining",
+        "incorrect_answers": [
+            "2001: A Space Odyssey",
+            " Dr. Strangelove ",
+            "Eyes Wide Shut"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who played Sgt. Gordon Elias in &#039;Platoon&#039; (1986)?",
+        "correct_answer": "Willem Dafoe",
+        "incorrect_answers": [
+            "Charlie Sheen",
+            "Matt Damon",
+            "Johnny Depp"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who voices the main character Blu in the 2011 animated film &quot;Rio&quot;?",
+        "correct_answer": "Jesse Eisenberg",
+        "incorrect_answers": [
+            "Michael Cera",
+            "Jonah Hill",
+            "Zach Galifianakis"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "Sean Connery wasn&#039;t in &quot;Indiana Jones and the Kingdom of the Crystal Skull&quot; because he found retirement too enjoyable.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+        "correct_answer": "October 21, 2015",
+        "incorrect_answers": [
+            "August 28, 2015",
+            "July 20, 2015",
+            "January 25, 2015"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Darth Vader&#039;s famous reveal to Luke is iconic. But which of these is the right one?",
+        "correct_answer": "&quot;No. I am your father.&quot;",
+        "incorrect_answers": [
+            "&quot;Luke, I am your father.&quot;",
+            "&quot;You&#039;re wrong. I am your father.&quot;",
+            "&quot;The truth is that I am your father.&quot;"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the first monster to appear alongside Godzilla?",
+        "correct_answer": "Anguirus",
+        "incorrect_answers": [
+            "King Kong",
+            "Mothra",
+            "King Ghidora"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What city did the monster attack in the film, &quot;Cloverfield&quot;?",
+        "correct_answer": "New York, New York",
+        "incorrect_answers": [
+            "Las Vegas, Nevada",
+            "Chicago, Illinois",
+            "Orlando, Florida"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the movie Gremlins, after what time of day should you not feed Mogwai?",
+        "correct_answer": "Midnight",
+        "incorrect_answers": [
+            "Evening",
+            "Morning",
+            "Afternoon"
+        ]
+    },
+    {
+       "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who played the Cenobite called &quot;Pinhead&quot; in the original Hellraiser films?",
+        "correct_answer": "Doug Bradley",
+        "incorrect_answers": [
+            "Doug Jones",
+            "Doug Savant",
+            "Doug Benson"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
+        "correct_answer": "Atreyu",
+        "incorrect_answers": [
+            "Atrayu",
+            "Atraiyu",
+            "Atraeyu"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "&quot;Minions&quot; was released on the June 10th, 2015.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In which movie does Robin Williams&#039; character have to disguise themselves into a woman?",
+        "correct_answer": "Mrs. Doubtfire",
+        "incorrect_answers": [
+            "Old Dogs",
+            "Jumanji",
+            "Awakenings"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What type of cheese, loved by Wallace and Gromit, had it&#039;s sale prices rise after their successful short films?",
+        "correct_answer": "Wensleydale",
+        "incorrect_answers": [
+            "Cheddar",
+            "Moon Cheese",
+            "Edam"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the movie &quot;Blade Runner&quot;, what is the term used for human-like androids ?",
+        "correct_answer": "Replicants",
+        "incorrect_answers": [
+            "Cylons",
+            "Synthetics",
+            "Skinjobs"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was the director of &quot;Scott Pilgrim vs. the World (2010)&quot;?",
+        "correct_answer": "Edgar Wright",
+        "incorrect_answers": [
+            "Phil Lord",
+            "Chris Miller",
+            "Seth Rogan"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
+        "correct_answer": "1971",
+        "incorrect_answers": [
+            "1975",
+            "1983",
+            "1969"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+        "correct_answer": "Max Payne",
+        "incorrect_answers": [
+            "Alan Wake",
+            "Hitman",
+            "God Of War"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Actor Tommy Chong served prison time.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the name of the island that &quot;Jurassic Park&quot; is built on?",
+        "correct_answer": "Isla Nublar",
+        "incorrect_answers": [
+            "Isla Sorna",
+            "Isla Muerta",
+            "Isla Pena"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the &quot;Jurassic Park&quot; universe, what is the name of the island that contains InGen&#039;s Site B?",
+        "correct_answer": "Isla Sorna",
+        "incorrect_answers": [
+            "Isla Nublar",
+            "Isla Pena",
+            "Isla Muerta"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1993)?",
+        "correct_answer": "1992 Ford Explorer XLT",
+        "incorrect_answers": [
+            "1992 Toyota Land Cruiser",
+            "1992 Jeep Wrangler YJ Sahar",
+            "Mercedes M-Class"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In &quot;Jurassic World&quot;, which company purchases InGen and creates Jurassic World?",
+        "correct_answer": "Masrani Global Corporation ",
+        "incorrect_answers": [
+            "Biology Synthetics Technologies",
+            "International Genetics Incorporated",
+            "International Genetic Technologies"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the &quot;Jurassic Park&quot; universe, what was the first dinosaur cloned by InGen in 1986?",
+        "correct_answer": "Velociraptor",
+        "incorrect_answers": [
+            "Triceratops",
+            "Troodon",
+            "Brachiosaurus"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which actors made up the trio in &quot;The Good, the Bad, and the Ugly&quot;? ",
+        "correct_answer": "Clint Eastwood, Eli Wallach, and Lee Van Cleef",
+        "incorrect_answers": [
+            "Sergio Leone, Ennio Morricone, and Tonino Delli Colli",
+            "Yul Brynner, Steve McQueen, and Charles Bronson",
+            "Aldo Giuffr&egrave;, Mario Brega, and Luigi Pistilli"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+        "correct_answer": "Dave",
+        "incorrect_answers": [
+            "John",
+            "Will",
+            "Carl"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
+        "correct_answer": "San Fransokyo",
+        "incorrect_answers": [
+            "San Tokyo",
+            "Tokysisco",
+            "Sankyo"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which director directed the movie &quot;Pan&#039;s Labyrinth&quot;?",
+        "correct_answer": "Guillermo Del Toro",
+        "incorrect_answers": [
+            "Alfonso Cuar&oacute;n",
+            "Alejandro Gonz&aacute;lez I&ntilde;&aacute;rritu",
+            " Alejandro Jodorowsky"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "The movie &quot;Tron&quot; received an Oscar nomination for Best Visual Effects.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Brendan Fraser starred in the following movies, except which one?",
+        "correct_answer": "Titanic",
+        "incorrect_answers": [
+            "Monkeybone",
+            "Encino Man",
+            "Mrs. Winterbourne"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What French artist\/band is known for playing on the midi instrument &quot;Launchpad&quot;?",
+        "correct_answer": "Madeon",
+        "incorrect_answers": [
+            "Daft Punk ",
+            "Disclosure",
+            "David Guetta"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who had hits in the 70s with the songs &quot;Lonely Boy&quot; and &quot;Never Let Her Slip Away&quot;?",
+        "correct_answer": "Andrew Gold",
+        "incorrect_answers": [
+            "Elton John",
+            "Leo Sayer",
+            "Barry White "
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who wrote the Sinead O`Connor hit &#039;Nothing Compares 2 U&#039;?",
+        "correct_answer": "Prince",
+        "incorrect_answers": [
+            "Michael Jackson",
+            "Cameo",
+            "Rick James"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "According to their 1974 hit, what were Brownsville Station doing &quot;In The Boys&#039; Room&quot;?",
+        "correct_answer": "Smokin&#039;",
+        "incorrect_answers": [
+            "Hangin&#039;",
+            "Lovin&#039;",
+            "Peein&#039;"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "Soulja Boy&#039;s &#039;Crank That&#039; won a Grammy for Best Rap Song in 2007.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which singer was featured in Jack &Uuml; (Skrillex &amp; Diplo)&#039;s 2015 song &#039;Where Are &Uuml; Now&#039;?",
+        "correct_answer": "Justin Bieber",
+        "incorrect_answers": [
+            "Selena Gomez",
+            "Ellie Goulding",
+            "The Weeknd"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Saul Hudson (Slash) of the band Guns N&#039; Roses is known for playing what type of guitar?",
+        "correct_answer": "Les Paul Standard",
+        "incorrect_answers": [
+            "Fender Stratocaster",
+            "LsL Mongrel",
+            "Gretsch Falcon"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The Red Hot Chili Pepper song &quot;Give It Away&quot; is from what album?",
+        "correct_answer": "Blood Sugar Sex Magik",
+        "incorrect_answers": [
+            "One Hot Minute",
+            "By the Way",
+            "Stadium Arcadium"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The song &quot;Twin Size Mattress&quot; was written by which band?",
+        "correct_answer": "The Front Bottoms",
+        "incorrect_answers": [
+            "Twenty One Pilots",
+            "The Wonder Years",
+            "The Smith Street Band"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many studio albums have the duo Daft Punk released?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "1",
+            "5",
+            "2"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the lead singer of the band Coldplay?",
+        "correct_answer": "Chris Martin",
+        "incorrect_answers": [
+            "Chris Isaak",
+            "Chris Wallace",
+            "Chris Connelly"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Eurobeat is primarily an Italian genre of music.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who wrote the musical composition, &quot;Rhapsody In Blue&quot;?",
+        "correct_answer": "George Gershwin",
+        "incorrect_answers": [
+            "Irving Berlin",
+            "Duke Ellington",
+            "Johnny Mandel"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Who had a 1981 hit with the song &quot;Japanese Boy&quot;?",
+        "correct_answer": "Aneka",
+        "incorrect_answers": [
+            "Toyah",
+            "Sandra",
+            "Madonna"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which singer was featured in Swedish producer Avicii&#039;s song &quot;Wake Me Up&quot;?",
+        "correct_answer": "Aloe Blacc",
+        "incorrect_answers": [
+            "John Legend",
+            "CeeLo Green",
+            "Pharrell Williams"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which country is singer Kyary Pamyu Pamyu from?",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+            "South Korea",
+            "China",
+            "Vietnam"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which member of the English band &quot;The xx&quot; released their solo album &quot;In Colour&quot; in 2015?",
+        "correct_answer": "Jamie xx",
+        "incorrect_answers": [
+            "Romy Madley Croft",
+            "Oliver Sim",
+            "Baria Qureshi"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which song is not by TheFatRat?",
+        "correct_answer": "Ascent",
+        "incorrect_answers": [
+            "Monody",
+            "Windfall",
+            "Infinite Power!"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In which city did American rap producer DJ Khaled originate from?",
+        "correct_answer": "Miami",
+        "incorrect_answers": [
+            "New York",
+            "Detroit",
+            "Atlanta"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Finish these lyrics from the 2016 song &quot;Panda&quot; by Desiigner: &quot;I got broads in _______&quot;.",
+        "correct_answer": "Atlanta",
+        "incorrect_answers": [
+            "Savannah",
+            "Augusta",
+            "Marietta"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Madonna&#039;s song &quot;Hung Up&quot; includes a piece from which popular 70s song?",
+        "correct_answer": "Gimmie! Gimmie! Gimme! (A Man After Midnight)",
+        "incorrect_answers": [
+            "Staying Alive",
+            "Night Fever",
+            "The Chain"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which artist released the 2012 single &quot;Harlem Shake&quot;, which was used in numerous YouTube videos in 2013?",
+        "correct_answer": "Baauer",
+        "incorrect_answers": [
+            "RL Grime",
+            "NGHTMRE",
+            "Flosstradamus"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the British term for a 64th note?",
+        "correct_answer": "Hemidemisemiquaver",
+        "incorrect_answers": [
+            "Semihemidemisemiquaver",
+            "Semiquaver",
+            "Demisemiquaver"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which artist collaborated with American DJ Dillon Francis to release the song 2016 &quot;Need You&quot;?",
+        "correct_answer": "NGHTMRE",
+        "incorrect_answers": [
+            "LOUDPVCK",
+            "KRNE",
+            "DVBBS"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which one of these Pink Floyd albums were also a movie?",
+        "correct_answer": "The Wall",
+        "incorrect_answers": [
+            "The Dark Side of the Moon",
+            "Wish You Were Here",
+            "Animals"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which Beatles album does NOT feature any of the band members on it&#039;s cover?",
+        "correct_answer": "The Beatles (White Album)",
+        "incorrect_answers": [
+            "Rubber Soul",
+            "Abbey Road",
+            "Magical Mystery Tour"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of French electronic music producer Madeon&#039;s 2015 debut studio album?",
+        "correct_answer": "Adventure",
+        "incorrect_answers": [
+            "The City",
+            "Icarus",
+            "Pop Culture"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Kanye West at 2009 VMA&#039;s interrupted which celebrity?",
+        "correct_answer": "Taylor Swift",
+        "incorrect_answers": [
+            "MF DOOM",
+            "Beyonce",
+            "Beck"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "According to the American rapper Nelly, what should you do when its hot in here?",
+        "correct_answer": "Take off all your clothes",
+        "incorrect_answers": [
+            "Take a cool shower",
+            "Drink some water",
+            "Go skinny dipping"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
+        "correct_answer": "Unknown Pleasures",
+        "incorrect_answers": [
+            "The Dark Side of the Moon",
+            "London Calling",
+            "The Velvet Underground &amp; Nico"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Brian May&#039;s guitar called?",
+        "correct_answer": "Red Special",
+        "incorrect_answers": [
+            "Blue Special",
+            "Green Special",
+            "Yellow Special"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "&quot;Drink the Sea&quot; is an album by which electronic music artist?",
+        "correct_answer": "The Glitch Mob",
+        "incorrect_answers": [
+            "Avicii",
+            "XXYYXX",
+            "Flux Pavilion"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What album did Bon Iver release in 2016?",
+        "correct_answer": "22, A Million",
+        "incorrect_answers": [
+            "Bon Iver, Bon Iver",
+            "Blood Bank EP",
+            "For Emma, Forever Ago"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the first track on Kanye West&#039;s 808s &amp; Heartbreak?",
+        "correct_answer": "Say You Will",
+        "incorrect_answers": [
+            "Welcome to Heartbreak",
+            "Street Lights",
+            "Heartless"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which rapper had an album that went double platinum with no features?",
+        "correct_answer": "J. Cole",
+        "incorrect_answers": [
+            "Kendrick Lamar",
+            "Drake",
+            "Big Sean"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In which year did &quot;Caravan Palace&quot; release their first album?",
+        "correct_answer": "2008",
+        "incorrect_answers": [
+            "2000",
+            "2015",
+            "2004"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was the lead singer and frontman of rock band R.E.M?",
+        "correct_answer": "Michael Stipe",
+        "incorrect_answers": [
+            "Chris Martin",
+            "Thom Yorke",
+            "George Michael"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "&quot;Make You Feel My Love&quot; was originally written and performed by which singer-songwriter?",
+        "correct_answer": "Bob Dylan",
+        "incorrect_answers": [
+            "Elvis",
+            "Adele",
+            "Billy Joel"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?",
+        "correct_answer": "Aero Deck",
+        "incorrect_answers": [
+            "Textuell",
+            "Panorama",
+            "Do While"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which band recorded the album &quot;Parallel Lines&quot;?",
+        "correct_answer": "Blondie",
+        "incorrect_answers": [
+            "Paramore",
+            "Coldplay",
+            "The Police"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "The song Scatman&#039;s World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "From which country does the piano originate?",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+            "Germany",
+            "Austria",
+            "France"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "A Facebook campaign placed Rage Against The Machine&#039;s &quot;Killing in the Name Of&quot; as the UK Christmas Number 1 in 2009.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which novelty band was best known for their UK chart hits &quot;Combine Harvester&quot; and &quot;I Am a Cider Drinker&quot; in 1976?",
+        "correct_answer": "The Wurzels",
+        "incorrect_answers": [
+            "Goldie Lookin Chain",
+            "Bonzo Dog Doo-Dah Band",
+            "The Firm"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "Metallica collaborated with Rowan Atkinson&#039;s Mr Bean on a 1992 comic relief single.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which music publication is often abbreviated to NME?",
+        "correct_answer": "New Musical Express",
+        "incorrect_answers": [
+            "New Metro Entertainment",
+            "Next Musical Enterprise",
+            "North Manchester Express"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which artist curated the official soundtrack for &quot;The Hunger Games: Mockingjay - Part 1&quot;?",
+        "correct_answer": "Lorde",
+        "incorrect_answers": [
+            "Kanye West",
+            "Tove Lo",
+            "Charli XCX"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which genre of Hip Hop does MC Frontalot rap?",
+        "correct_answer": "Nerdcore",
+        "incorrect_answers": [
+            "Horrorcore",
+            "Christian",
+            "Crunk"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was Raekwon the Chefs debut solo album?",
+        "correct_answer": "Only Built 4 Cuban Linx",
+        "incorrect_answers": [
+            "Shaolin vs Wu-Tang",
+            "The Wild",
+            "The Lex Diamond Story"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the lead singer of Arctic Monkeys?",
+        "correct_answer": "Alex Turner",
+        "incorrect_answers": [
+            "Jamie Cook",
+            "Matt Helders",
+            "Nick O&#039;Malley"
+        ]
+    }
+]

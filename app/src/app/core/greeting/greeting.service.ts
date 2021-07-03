@@ -1,0 +1,16 @@
+import {HttpClient} from "@angular/common/http";
+import {Injectable} from "@angular/core";
+import {map} from "rxjs/operators";
+import {environment} from "../../../environments/environment";
+@Injectable({
+  providedIn: 'root'
+})
+export class GreetingService{
+  constructor(private httpClient: HttpClient) {
+  }
+  getGreeting() {
+    return this.httpClient.get<any>(`${environment.backendEndpoint}/api/greeting`).pipe(
+      map(response => response.greeting)
+    );
+  }
+}
