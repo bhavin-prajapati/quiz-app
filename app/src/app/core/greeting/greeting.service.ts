@@ -1,11 +1,11 @@
-import {HttpClient} from "@angular/common/http";
-import {Injectable} from "@angular/core";
-import {map} from "rxjs/operators";
-import {environment} from "../../../environments/environment";
+import { HttpClient } from "@angular/common/http";
+import { Injectable } from "@angular/core";
+import { map } from "rxjs/operators";
+import { environment } from "../../../environments/environment";
 @Injectable({
   providedIn: 'root'
 })
-export class GreetingService{
+export class GreetingService {
   constructor(private httpClient: HttpClient) {
   }
   getGreeting() {

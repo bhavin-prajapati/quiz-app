@@ -1,6 +1,6 @@
-import {HttpClientModule} from "@angular/common/http";
+import { HttpClientModule } from "@angular/common/http";
 import { NgModule, Optional, SkipSelf } from '@angular/core';
-import {GreetingService} from "./greeting/greeting.service";
+import { GreetingService } from "./greeting/greeting.service";
 @NgModule({
   imports: [HttpClientModule],
   providers: [GreetingService],
